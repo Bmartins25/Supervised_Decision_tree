@@ -1,4 +1,4 @@
-# Supervisionado_Decision_tree
+# Supervised_Decision_tree
 
 ---
 
